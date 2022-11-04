@@ -1,0 +1,15 @@
+.sideBar{
+    width: 300px;
+    background-color: gray;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+    top:0;
+    display: none;
+}
+.show{
+    display: block;
+}
+.list li>span{
+    padding: 3px;
+}
