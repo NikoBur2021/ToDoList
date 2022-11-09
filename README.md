@@ -17,7 +17,7 @@ b) After kilicking on the button 'Save' the sidebar must hide
 12) To edit the note, we need the index of this note, which is located in the for loop. You can pass the index through arguments in the function.
 
 13) By clicking on edit, we re receive index and send it to the function 'Save'. We save it to in an array, in Edit.
-14) By editing (Clicking on save) in the current note, change the text content in the spans.
+14) By editing (Clicking on save) in the current note, change the text content in the spans with children.
 
 
 Project N3 ToDoList
@@ -37,4 +37,4 @@ Project N3 ToDoList
     а) Если было редактирование, то выполняется действие редактирования. Если было добавление, то выполняется действие добавления. Для этого нужно дать состояние кнопке Save при Edit или при Add.
 11) Что бы отредактировать нужную запись нам необходим индекс этой записи, который находится в цикле for. Передать индекс можно через аргументы функции.
 12) По клику на edit мы принимаем этот индекс и отправляем его в кнопку Save где и сохраняем в массив, в условиях на Edit.
-13) По редактированию (по клику на save) в текущей записи изменить текстовое содержимое в span. 
+13) По редактированию (по клику на save) в текущей записи изменить текстовое содержимое в span c помощью потомков. 
