@@ -13,3 +13,9 @@
 .list li>span{
     padding: 3px;
 }
+.container span{
+    padding: 3px;
+}
+.container{
+    display: flex;
+}
